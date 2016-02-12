@@ -1,0 +1,16 @@
+AllCops:
+  Exclude:
+    - 'Gemfile'
+    - 'Rakefile'
+    - 'stack_spec.rb'
+
+Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+# I'll name a method has_value? if I damn well please
+Style/PredicateName:
+  Exclude:
+    - 'stack.rb'
