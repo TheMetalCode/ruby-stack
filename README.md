@@ -10,7 +10,7 @@ Prerequisites: [Ruby Version Manager](https://rvm.io/rvm/install). There is a wa
 
 Alternative (especially for Windows): Use [Ruby Installer for Windows](http://rubyinstaller.org/downloads/) to get Ruby 2.2.4
 
-Once you have Ruby on your machine some how some way, clone this gist, then:
+Once you have Ruby on your machine some how some way, clone this repo, then:
 
 ```
 gem install bundler
